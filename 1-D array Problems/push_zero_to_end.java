@@ -23,6 +23,7 @@ public class push_zero_to_end
                         int temp=arr[j];
                         arr[j]=arr[i];
                         arr[i]=temp;
+                        break;
                     }
                 }
             }

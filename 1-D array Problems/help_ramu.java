@@ -5,7 +5,7 @@ public class help_ramu {
 
         int rick[] ={2,5};
 
-        int cab[]={4,3,5};
+        int cab[]={4,5,3};
 
 
         int min_rick=Integer.MAX_VALUE;
