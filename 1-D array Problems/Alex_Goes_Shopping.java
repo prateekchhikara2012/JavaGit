@@ -33,7 +33,7 @@ public class Alex_Goes_Shopping
     }
 }
 
-// //       -----Second methord----(without making a new array)
+// //       -----Second methord----(with making a new array)
 // //public class Alex_Goes_Shopping {
 //     public static void main(String[] args) {
 //         int arr[]={100,200,400,100};
